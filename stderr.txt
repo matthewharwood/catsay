@@ -1,0 +1,3 @@
+    Finished dev [unoptimized + debuginfo] target(s) in 0.03s
+     Running `target\debug\catsay.exe woof`
+A cat shouldn't bark like a dog.
